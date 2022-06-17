@@ -1,3 +1,10 @@
+# Catalyst GTK
+Catalyst web browser ported to GTK
+# Forks for your platform
+At the moment, this repository only compiles for Linux. Here are some unofficial repositories for your platform \
+[Windows](https://github.com/UniqueName12345/Catalyst-GTK-WinMac) \
+[Mac](https://github.com/UniqueName12345/Catalyst-GTK-WinMac)
+# Below is the README of epiphany
 # GNOME Web
 
 GNOME Web (codename: Epiphany) is a GNOME web browser based on
